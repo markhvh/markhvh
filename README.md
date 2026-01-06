@@ -29,6 +29,12 @@ currently working on my pasted script fagghaxz
 
 fully open to get be judged.. 😿
 
+<div align="center">
+<a href="https://u8views.com/github/markhvh">
+    <img src="https://u8views.com/api/v1/github/profiles/242471988/views/day-week-month-total-count.svg" alt="markhvh profile views" />
+  </a>
+</div>
+
 <!--
 **markhvh/markhvh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
