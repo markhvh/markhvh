@@ -5,8 +5,8 @@
     <kbd><b><font size="4" color="#FF69B4">🌸 私はマークです！！ 🌸</font></b></kbd>
   </p>
 
-  <a href="ВАША_ССЫЛКА"><img src="https://img.shields.io/badge/Telegram-FF69B4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="ВАША_ССЫЛКА"><img src="https://img.shields.io/badge/Discord-FF69B4?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://t.me/niggasync"><img src="https://img.shields.io/badge/Telegram-FF69B4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://discordapp.com/users/679322489662341134/"><img src="https://img.shields.io/badge/Discord-FF69B4?style=for-the-badge&logo=discord&logoColor=white" /></a>
 
   <br/><br/>
   
