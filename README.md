@@ -1,3 +1,10 @@
+<!--
+credits:
+inveris1337 (a.k.a nam a.k.a uilibrary on discord) == his profile gave me idea make views count
+uhmm thats all.
+-->
+
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/markhvh/markhvh/refs/heads/main/b5e4f605d960bd94b427e166fb755d77.gif" width="500" />
 
