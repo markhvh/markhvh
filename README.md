@@ -32,9 +32,9 @@ i'm looking for help with ui creating and designing
 
 also can collaborate with someone to code sh#thaxx together!!
 
-currently working on my pasted script fagghaxz
+currently working on my pasted script cheesehack
 
-fully open to get be judged.. 😿
+fully open to get be judged..
 
 <div align="center">
 <a href="https://u8views.com/github/markhvh">
